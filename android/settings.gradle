@@ -1,0 +1,3 @@
+rootProject.name = 'Camping_App'
+
+include ':app'
